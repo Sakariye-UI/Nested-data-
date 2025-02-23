@@ -8,6 +8,7 @@ Klaviyo (and many segmentation tools) struggle with nested data because they onl
 Previously, Klaviyo users had no direct solution—forcing them to hire developers or rely on third-party partners.
 This solution provides a clear example of how to transform nested data, making it usable within Klaviyo without extensive development work.
 
+
 🎯 Who Is This For?
 
 
@@ -17,6 +18,7 @@ This solution provides a clear example of how to transform nested data, making i
 
 ✅ Developers who want an easy-to-follow API and webhook solution.
 
+
 🔑 What This Solution Enables
 
 
@@ -25,6 +27,7 @@ This solution provides a clear example of how to transform nested data, making i
 ✨ Automation with Webhooks: Process event data in real-time and send clean data back.
 
 ✨ More Powerful Targeting: Use previously inaccessible order details, customer preferences, or event properties.
+
 
 🛠 How It Works (Simplified Flow)
 
@@ -74,6 +77,7 @@ Attach a "Webhook" action using the Napkin.io URL.
 💡 Why This Matters for Klaviyo Users
 
 Before:
+
 ❌ Nested data was difficult to use.
 
 ❌ Segmentation was limited.
@@ -82,6 +86,7 @@ Before:
 
 
 Now:
+
 ✅ Klaviyo users finally have an actionable example.
 
 ✅ Segmentation & automation become more powerful.
