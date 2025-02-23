@@ -10,6 +10,7 @@ This solution provides a clear example of how to transform nested data, making i
 
 🎯 Who Is This For?
 
+
 ✅ Klaviyo customers who need advanced segmentation but struggle with complex data formats.
 
 ✅ Marketing teams looking to use detailed order, customer, or event data in flows.
@@ -18,6 +19,7 @@ This solution provides a clear example of how to transform nested data, making i
 
 🔑 What This Solution Enables
 
+
 ✨ Seamless Segmentation: Convert nested data into top-level attributes that Klaviyo can read.
 
 ✨ Automation with Webhooks: Process event data in real-time and send clean data back.
@@ -25,6 +27,7 @@ This solution provides a clear example of how to transform nested data, making i
 ✨ More Powerful Targeting: Use previously inaccessible order details, customer preferences, or event properties.
 
 🛠 How It Works (Simplified Flow)
+
 
 1️⃣ Klaviyo Event Triggered
 → A customer places an order (or another event occurs).
@@ -38,6 +41,7 @@ This solution provides a clear example of how to transform nested data, making i
 4️⃣ Transformed Data is Sent Back to Klaviyo
 → Now, it's usable for segmentation, triggers, or conditional splits.
 
+
 🔎 Key Features
 
 ✅ API & Webhook Integration – Automate data flow between Klaviyo and Napkin.io.
@@ -47,6 +51,7 @@ This solution provides a clear example of how to transform nested data, making i
 ✅ Timestamping & Error Handling – Ensure clean, reliable event data.
 
 ✅ No Need for Custom Dev Work – Provides an out-of-the-box example to get started.
+
 
 📌 Easy Setup
 
@@ -65,6 +70,7 @@ Create a new flow in Klaviyo.
 Add a "Metric Trigger" (e.g., Placed Order).
 Attach a "Webhook" action using the Napkin.io URL.
 
+
 💡 Why This Matters for Klaviyo Users
 
 Before:
@@ -73,6 +79,7 @@ Before:
 ❌ Segmentation was limited.
 
 ❌ No official solution—users had to hire developers or external agencies.
+
 
 Now:
 ✅ Klaviyo users finally have an actionable example.
