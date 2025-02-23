@@ -8,6 +8,7 @@ Previously, Klaviyo users had no direct solution—forcing them to hire develope
 This solution provides a clear example of how to transform nested data, making it usable within Klaviyo without extensive development work.
 
 🎯 Who Is This For?
+
 ✅ Klaviyo customers who need advanced segmentation but struggle with complex data formats.
 ✅ Marketing teams looking to use detailed order, customer, or event data in flows.
 ✅ Developers who want an easy-to-follow API and webhook solution.
