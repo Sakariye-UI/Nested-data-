@@ -2,14 +2,18 @@ Transform Nested Data into Top-Level Data
 
 Helping Klaviyo Users Unlock Better Segmentation & Automation
 
+
 🚀 What Problem Does This Solve?
+
 
 Klaviyo (and many segmentation tools) struggle with nested data because they only support top-level attributes.
 Previously, Klaviyo users had no direct solution—forcing them to hire developers or rely on third-party partners.
 This solution provides a clear example of how to transform nested data, making it usable within Klaviyo without extensive development work.
 
 
+
 🎯 Who Is This For?
+
 
 
 ✅ Klaviyo customers who need advanced segmentation but struggle with complex data formats.
@@ -19,7 +23,9 @@ This solution provides a clear example of how to transform nested data, making i
 ✅ Developers who want an easy-to-follow API and webhook solution.
 
 
+
 🔑 What This Solution Enables
+
 
 
 ✨ Seamless Segmentation: Convert nested data into top-level attributes that Klaviyo can read.
@@ -29,7 +35,9 @@ This solution provides a clear example of how to transform nested data, making i
 ✨ More Powerful Targeting: Use previously inaccessible order details, customer preferences, or event properties.
 
 
+
 🛠 How It Works (Simplified Flow)
+
 
 
 1️⃣ Klaviyo Event Triggered
@@ -47,6 +55,8 @@ This solution provides a clear example of how to transform nested data, making i
 
 🔎 Key Features
 
+
+
 ✅ API & Webhook Integration – Automate data flow between Klaviyo and Napkin.io.
 
 ✅ Data Transformation – Flatten complex structures to unlock new segmentation options.
@@ -57,6 +67,8 @@ This solution provides a clear example of how to transform nested data, making i
 
 
 📌 Easy Setup
+
+
 
 1️⃣ In Klaviyo:
 Generate an API Key.
@@ -75,6 +87,8 @@ Attach a "Webhook" action using the Napkin.io URL.
 
 
 💡 Why This Matters for Klaviyo Users
+
+
 
 Before:
 
