@@ -3,7 +3,7 @@ Transform Nested Data into Top-Level Data
 Helping Klaviyo Users Unlock Better Segmentation & Automation
 
 
-🚀 What Problem Does This Solve?
+🚀 What Problem Does This Solve?:
 
 
 Klaviyo (and many segmentation tools) struggle with nested data because they only support top-level attributes.
@@ -12,7 +12,7 @@ This solution provides a clear example of how to transform nested data, making i
 
 
 
-🎯 Who Is This For?
+🎯 Who Is This For?:
 
 
 
@@ -24,7 +24,7 @@ This solution provides a clear example of how to transform nested data, making i
 
 
 
-🔑 What This Solution Enables
+🔑 What This Solution Enables:
 
 
 
@@ -36,7 +36,7 @@ This solution provides a clear example of how to transform nested data, making i
 
 
 
-🛠 How It Works (Simplified Flow)
+🛠 How It Works (Simplified Flow):
 
 
 
@@ -53,7 +53,7 @@ This solution provides a clear example of how to transform nested data, making i
 → Now, it's usable for segmentation, triggers, or conditional splits.
 
 
-🔎 Key Features
+🔎 Key Features:
 
 
 
@@ -66,7 +66,7 @@ This solution provides a clear example of how to transform nested data, making i
 ✅ No Need for Custom Dev Work – Provides an out-of-the-box example to get started.
 
 
-📌 Easy Setup
+📌 Easy Setup:
 
 
 
@@ -86,7 +86,7 @@ Add a "Metric Trigger" (e.g., Placed Order).
 Attach a "Webhook" action using the Napkin.io URL.
 
 
-💡 Why This Matters for Klaviyo Users
+💡 Why This Matters for Klaviyo Users:
 
 
 
